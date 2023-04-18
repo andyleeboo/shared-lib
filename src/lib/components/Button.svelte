@@ -2,4 +2,4 @@
 	export let label: string;
 </script>
 
-<button>{label}</button>
+<button on:click>{label}</button>
