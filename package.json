@@ -1,5 +1,5 @@
 {
-	"name": "shared-lib",
+	"name": "@andyleeboo/shared-lib",
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "vite dev",
